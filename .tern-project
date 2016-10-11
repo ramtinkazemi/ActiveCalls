@@ -1,14 +1,22 @@
 {
+  "ecmaVersion": 5,
   "plugins": {
     "outline": {
       
     },
     "node": {
       
+    },
+    "guess-types": {
+      
+    },
+    "angular": {
+      
     }
   },
   "libs": [
     "ecma5",
-    "ecma6"
+    "ecma6",
+    "browser"
   ]
 }
